@@ -1,0 +1,58 @@
+const data = [
+    {
+      title: "Who I Am And What I Do",
+      desc1: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Unde possimus quaerat quam dolorum ipsa laboriosam, repudia illum amet inventore facilis, eius libero.",
+      desc2: "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.",
+      desc3: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      cover: "./assets/about.jpg",
+    },
+  ]
+   const data = [
+    {
+      id: "01",
+      heading: "Digital Branding",
+      desc: "Lorem ipsum dolor sit amet, provid adipisicing elit. Aliquam dolorum nu illo similique! Impedit.",
+    },
+    {
+      id: "02",
+      heading: "Team Management",
+      desc: "Lorem ipsum dolor sit amet, provid adipisicing elit. Aliquam dolorum nu illo similique! Impedit.",
+    },
+    {
+      id: "03",
+      heading: "Creative Mind",
+      desc: "Lorem ipsum dolor sit amet, provid adipisicing elit. Aliquam dolorum nu illo similique! Impedit.",
+    },
+  ]
+    const data = [
+    {
+      title: "LOOKING FOR EXCLUSIVE SERVICES?",
+      heading: "Get The Best For Your Business",
+      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    },
+  ]
+ const data = [
+    {
+      title: "Every Day is a New Challenge",
+      para: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Id autem veritatis nobis inventore consectetur omnis porro iusto excepturi, quo voluptate quos vel, quasi officia fugiat.",
+      para1: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos illo qui quibusdam perspiciatis soluta cumque quia asperiores sapiente! Veniam odit veritatis mollitia eos similique impedit beatae iusto.",
+    },
+  ]
+  const data = [
+    {
+      num: "520%",
+      text: "AWARDS WINNING",
+    },
+    {
+      num: "99%",
+      text: "SATISFIED CLIENTS",
+    },
+    {
+      num: "3325",
+      text: "CREATIVE PROJECTS",
+    },
+    {
+      num: "54380",
+      text: "LINES OF CODE ",
+    },
+  ]
